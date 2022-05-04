@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3591630448",
+    "project_id": "linkedin-clone-84a8d",
+    "storage_bucket": "linkedin-clone-84a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3591630448:android:92f7f571baeb42fb888eb5",
+        "android_client_info": {
+          "package_name": "com.project.linkedin_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3591630448-v5fk366lleod4ms2ksm6g5jq8hlheajo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjD4e9IDT6B-Shw3UUYXL0VhVzIlYCGeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3591630448-v5fk366lleod4ms2ksm6g5jq8hlheajo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
